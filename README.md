@@ -1,24 +1,43 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Sourasish Basu</h1>
-<h3 align="left">I am a enthusiastic student, pursuing a b.tech degree in CSE :)</h3>
+<h1 align="left" id="macropower-title">:wave: Hi! I'm Sourasish Basu a.k.a Sasquatch</h1>
 
-> - I'm currently studying at **KIIT**
-> - Interested in Kubernetes and Docker
-> - Game modification is a core hobby of mine
+![version :2.23.2023](https://img.shields.io/badge/version-2.23.2023-informational) &nbsp;
+![profile views](https://komarev.com/ghpvc/?username=SourasishBasu&color=red)&nbsp;
 
-> ### Tools, languages, and other things that I like to work with.<br>
->[![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)](dependabot)
-[![Github](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VSCode-purple?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](vscodelink)
-[![Unity](https://img.shields.io/badge/unity-red?style=for-the-badge&logo=unity&logoColor=white)](unity)
-[![Ubunut](https://img.shields.io/badge/Ubuntu%20On%20Wsl-660066?style=for-the-badge&logo=Ubuntu&logoColor=white)](ubuntu-wsl)
-[![Powershell](https://img.shields.io/badge/Powershell-darkgreen?style=for-the-badge&logo=powershell&logoColor=white)](powershelllink)
-[![docker](https://img.shields.io/badge/Docker-darkblue?style=for-the-badge&logo=docker&logoColor=white)]()
-[![kubernetes](https://img.shields.io/badge/kubernetes-yellow?style=for-the-badge&logo=kubernetes&logoColor=white)]()
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+<h3 align="left">About Me</h3>
+
+> - Currently pursuing B.Tech in CSE from KIIT
+> - Working with C, Python and practicing LeetCode
+> - Passionate about Cloud computing, Open-source and networking 
+> - Hobbies: Minecraft modding, playing badminton and violin
+
+### 📃&nbsp;Languages
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MYSQL)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+### &nbsp;Tools
+
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm%20-%23150458.svg?&style=flat&logo=pycharm&logoColor=green)&nbsp;
+![Notion](https://img.shields.io/badge/Notion%20-%23150458.svg?&style=flat&logo=notion&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=orange)&nbsp;
+![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=unity)&nbsp;
+![WSL](https://img.shields.io/badge/WSL%20-%23150458.svg?&style=flat&logo=ubuntu&logoColor=brown)&nbsp;
+![Powershell](https://img.shields.io/badge/PowerShell%20-%23150458.svg?&style=flat&logo=powershell)&nbsp;
+
 
 >### Connect with me <br>
->[![Gmail](https://img.shields.io/badge/gmail_id-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:@gmail.com)
-[![github_prof](https://img.shields.io/badge/gh_prof-black?style=for-the-badge&logo=github&logoColor=white)](github)
-[![kubernetes](https://img.shields.io/badge/insta_id-yellow?style=for-the-badge&logo=instagram&logoColor=white)]()
+<a href="https://www.linkedin.com/in/sourasishbasu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:sourasishbasu06@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://discord.com/users/524877465496190976"><img src="https://img.shields.io/badge/-Sasquatch-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
 ##
-![user stats](https://github-readme-stats.vercel.app/api?username=sourasishbasu&show_icons=true&theme=transparent)
+
+![user stats](https://github-readme-stats.vercel.app/api?username=sourasishbasu&show_icons=true&theme=dark)
