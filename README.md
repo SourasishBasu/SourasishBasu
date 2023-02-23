@@ -1,14 +1,14 @@
-<h1 align="left" id="macropower-title">:wave: Hi! I'm Sourasish Basu a.k.a Sasquatch</h1>
+<h1 align="left" id="macropower-title">:wave: Hi! I'm Sourasish Basu</h1>
 
 ![version :2.23.2023](https://img.shields.io/badge/version-2.23.2023-informational) &nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=SourasishBasu&color=red)&nbsp;
 
 <h3 align="left">About Me</h3>
 
-> - Currently pursuing B.Tech in CSE from KIIT
-> - Working with C, Python and practicing LeetCode
-> - Passionate about Cloud computing, Open-source and networking 
-> - Hobbies: Minecraft modding, playing badminton and violin
+> Currently pursuing B.Tech in CSE from KIIT
+> Working with C, Python and practicing LeetCode
+> Passionate about Cloud computing, Open-source and networking 
+> Hobbies: Minecraft modding, playing badminton and violin
 
 ### 📃&nbsp;Languages
 
