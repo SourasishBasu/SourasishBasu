@@ -34,10 +34,10 @@
 ![Powershell](https://img.shields.io/badge/PowerShell%20-%23150458.svg?&style=flat&logo=powershell)&nbsp;
 
 
->### Connect with me <br>
+### Connect with me <br>
 <a href="https://www.linkedin.com/in/sourasishbasu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:sourasishbasu06@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://discord.com/users/524877465496190976"><img src="https://img.shields.io/badge/-Sasquatch-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
 ##
 
-![user stats](https://github-readme-stats.vercel.app/api?username=sourasishbasu&show_icons=true&theme=dark)
+![user stats](https://github-readme-stats.vercel.app/api?username=sourasishbasu&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true))
