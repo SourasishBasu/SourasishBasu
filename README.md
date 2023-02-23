@@ -40,4 +40,4 @@
 <a href="https://discord.com/users/524877465496190976"><img src="https://img.shields.io/badge/-Sasquatch-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
 ##
 
-![user stats](https://github-readme-stats.vercel.app/api?username=sourasishbasu&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true))
+![user stats](https://github-readme-stats.vercel.app/api?username=sourasishbasu&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
