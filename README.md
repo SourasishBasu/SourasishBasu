@@ -6,7 +6,7 @@
 ------
 #### Languages
 <img align="left" alt="Python" width="26px" src="./assets/python.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="35px" src="./assets/mysql.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="80px" src="./assets/mysql.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="./assets/c.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="./assets/csharp.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="26px" src="./assets/html.svg" style="padding-right:10px;" />
