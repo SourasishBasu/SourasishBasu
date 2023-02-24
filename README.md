@@ -6,8 +6,11 @@
 <h3 align="left">About Me</h3>
 
 > Currently pursuing B.Tech in CSE from KIIT
+
 > Working with C, Python and practicing LeetCode
-> Passionate about Cloud computing, Open-source and networking 
+
+> Passionate about Cloud computing, Open-source and networking
+
 > Hobbies: Minecraft modding, playing badminton and violin
 
 ### 📃&nbsp;Languages
