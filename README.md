@@ -1,7 +1,7 @@
 ![version :2.23.2023](https://img.shields.io/badge/version-2.23.2023-informational) &nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=SourasishBasu&color=red)&nbsp;
 
-<img alt="ReadMe" src="https://raw.githubusercontent.com/SourasishBasu/SourasishBasu/837055a6c60c6e803db4abd02c149602fa15fc4b/profile.svg" />
+<img alt="ReadMe" src="https://raw.githubusercontent.com/SourasishBasu/SourasishBasu/837055a6c60c6e803db4abd02c149602fa15fc4b/profile.png" />
 
 ------
 #### Languages
