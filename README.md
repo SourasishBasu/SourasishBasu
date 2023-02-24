@@ -3,6 +3,12 @@
 ![version :2.23.2023](https://img.shields.io/badge/version-2.23.2023-informational) &nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=SourasishBasu&color=red)&nbsp;
 
+<a href="https://github.com/SourasishBasu/SourasishBasu">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/SourasishBasu/SourasishBasu/main/dark_mode.svg](https://raw.githubusercontent.com/SourasishBasu/SourasishBasu/837055a6c60c6e803db4abd02c149602fa15fc4b/dark_theme.svg)">
+</picture>
+</a>
+  
 <h3 align="left">About Me</h3>
 
 > Currently pursuing B.Tech in CSE from KIIT
