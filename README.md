@@ -1,30 +1,9 @@
-<h1 align="left" id="macropower-title">:wave: Hi! I'm Sourasish Basu</h1>
-
 ![version :2.23.2023](https://img.shields.io/badge/version-2.23.2023-informational) &nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=SourasishBasu&color=red)&nbsp;
 
-<a href="https://github.com/SourasishBasu/SourasishBasu">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/SourasishBasu/SourasishBasu/main/dark_mode.svg](https://raw.githubusercontent.com/SourasishBasu/SourasishBasu/837055a6c60c6e803db4abd02c149602fa15fc4b/dark_theme.svg)">
-</picture>
-</a>
-  
-<h3 align="left">About Me</h3>
+<img alt="ReadMe" src="https://raw.githubusercontent.com/SourasishBasu/SourasishBasu/837055a6c60c6e803db4abd02c149602fa15fc4b/profile.svg" />
 
-> Currently pursuing B.Tech in CSE from KIIT
-
-> Working with C, Python and practicing LeetCode
-
-> Passionate about Cloud computing, Open-source and networking
-
-> Hobbies: Minecraft modding, playing badminton and violin
 ------
-### Connect with me
-[<img align="left" alt="Gmail" width="26px" src="./assets/gmail.svg" style="padding-right:10px;"/>](mailto:sourasishbasu06@gmail.com)
-[<img align="left" alt="LinkedIn" width="26px" src="./assets/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/sourasishbasu)
-[<img align="left" alt="Discord" width="26px" src="./assets/discord.svg" style="padding-right:10px;" />](https://discord.com/users/524877465496190976/)
-</br>
-
 #### Languages
 <img align="left" alt="Python" width="26px" src="./assets/python.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="./assets/mysql.svg" style="padding-right:10px;" />
@@ -47,5 +26,10 @@
 <img align="left" alt="Notion" width="26px" src="./assets/notion.svg" style="padding-right:10px;" />
 </br>
 
+### Connect with me
+[<img align="left" alt="Gmail" width="26px" src="./assets/gmail.svg" style="padding-right:10px;"/>](mailto:sourasishbasu06@gmail.com)
+[<img align="left" alt="LinkedIn" width="26px" src="./assets/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/sourasishbasu)
+[<img align="left" alt="Discord" width="26px" src="./assets/discord.svg" style="padding-right:10px;" />](https://discord.com/users/524877465496190976/)
+</br>
 ------
 ![user stats](https://github-readme-stats.vercel.app/api?username=sourasishbasu&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
