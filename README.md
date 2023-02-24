@@ -12,35 +12,34 @@
 > Passionate about Cloud computing, Open-source and networking
 
 > Hobbies: Minecraft modding, playing badminton and violin
+------
+### Connect with me
+[<img align="left" alt="Gmail" width="26px" src="./assets/gmail.svg" style="padding-right:10px;"/>](mailto:sourasishbasu06@gmail.com)
+[<img align="left" alt="LinkedIn" width="26px" src="./assets/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/sourasishbasu)
+[<img align="left" alt="Discord" width="26px" src="./assets/discord.svg" style="padding-right:10px;" />](https://discord.com/users/524877465496190976/)
+</br>
 
-### 📃&nbsp;Languages
+#### Languages
+<img align="left" alt="Python" width="26px" src="./assets/python.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="./assets/mysql.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="./assets/c.svg" style="padding-right:10px;" />
+<img align="left" alt="C#" width="26px" src="./assets/csharp.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="26px" src="./assets/html.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="26px" src="./assets/css.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="./assets/git.svg" style="padding-right:10px;" />
+</br>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MYSQL)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=Csharp&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+#### Tools
+<img align="left" alt="Visual Studio Code" width="26px" src="./assets/vscode.svg" style="padding-right:10px;" />
+<img align="left" alt="PyCharm" width="26px" src="./assets/pycharm.png" style="padding-right:10px;" />
+<img align="left" alt="Github" width="26px" src="./assets/github.svg" style="padding-right:10px;" />
+<img align="left" alt="Ubuntu WSL" width="26px" src="./assets/ubuntu.svg" style="padding-right:10px;" />
+<img align="left" alt="Powershell" width="26px" src="./assets/shell.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity 3D" width="26px" src="./assets/unity.svg" style="padding-right:10px;" />
+<img align="left" alt="Blender" width="26px" src="./assets/blender.svg" style="padding-right:10px;" />
+<img align="left" alt="Adobe Photoshop" width="26px" src="./assets/psd.png" style="padding-right:10px;" />
+<img align="left" alt="Notion" width="26px" src="./assets/notion.svg" style="padding-right:10px;" />
+</br>
 
-### &nbsp;Tools
-
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm%20-%23150458.svg?&style=flat&logo=pycharm&logoColor=green)&nbsp;
-![Notion](https://img.shields.io/badge/Notion%20-%23150458.svg?&style=flat&logo=notion&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender&logoColor=orange)&nbsp;
-![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=unity)&nbsp;
-![WSL](https://img.shields.io/badge/WSL%20-%23150458.svg?&style=flat&logo=ubuntu&logoColor=brown)&nbsp;
-![Powershell](https://img.shields.io/badge/PowerShell%20-%23150458.svg?&style=flat&logo=powershell)&nbsp;
-
-
-### Connect with me <br>
-<a href="https://www.linkedin.com/in/sourasishbasu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:sourasishbasu06@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://discord.com/users/524877465496190976"><img src="https://img.shields.io/badge/-Sasquatch-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
-##
-
+------
 ![user stats](https://github-readme-stats.vercel.app/api?username=sourasishbasu&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
