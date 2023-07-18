@@ -1,7 +1,7 @@
 [![Resume](https://img.shields.io/badge/Click%20to%20view-Resume-informational)](https://resume.io/r/DUib9MhQp)&nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=SourasishBasu&color=red)&nbsp;
 
-<img alt="ReadMe" src="https://github.com/SourasishBasu/SourasishBasu/blob/4ee4773f03325ba3faabe1623ff145aa784bcc23/prof.png" />
+<img alt="ReadMe" src="profile.png" />
 
 ------
 #### Languages
