@@ -1,4 +1,4 @@
-[![Resume](https://img.shields.io/badge/Click%20to%20view-Resume-informational)](https://resume.io/r/DUib9MhQp)&nbsp;
+[![Resume](https://img.shields.io/badge/Click%20to%20view-Resume-informational)](https://drive.google.com/file/d/1Gu3RnRgzQiZ-iopWkbXmRaxHllcsGD-p/view?usp=sharing)&nbsp;
 ![profile views](https://komarev.com/ghpvc/?username=SourasishBasu&color=red)&nbsp;
 
 <img alt="ReadMe" src="profile.png" />
