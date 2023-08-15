@@ -4,9 +4,11 @@
 <img alt="ReadMe" src="profile.png" />
 
 ------
-#### Languages
+#### Languages & Technologies
 <img align="left" alt="Python" width="26px" src="./assets/python.svg" />
 <img align="left" alt="MySQL" width="35px" src="./assets/mysql.svg" />
+<img align="left" alt="AWS" width="35px" src="./assets/aws.svg" />
+<img align="left" alt="Docker" width="35px" src="./assets/docker.svg" />
 <img align="left" alt="C" width="26px" src="./assets/c.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="./assets/csharp.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="26px" src="./assets/html.svg" style="padding-right:10px;" />
@@ -21,7 +23,6 @@
 <img align="left" alt="Ubuntu WSL" width="26px" src="./assets/ubuntu.svg" style="padding-right:10px;" />
 <img align="left" alt="Powershell" width="26px" src="./assets/shell.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity 3D" width="26px" src="./assets/unity.svg" style="padding-right:10px;" />
-<img align="left" alt="Blender" width="26px" src="./assets/blender.svg" style="padding-right:10px;" />
 <img align="left" alt="Adobe Photoshop" width="26px" src="./assets/psd.png" style="padding-right:10px;" />
 <img align="left" alt="Notion" width="26px" src="./assets/notion.svg" style="padding-right:10px;" />
 </br>
