@@ -1,36 +1,31 @@
-[![Resume](https://img.shields.io/badge/Click%20to%20view-Resume-informational)](https://drive.google.com/file/d/1Gu3RnRgzQiZ-iopWkbXmRaxHllcsGD-p/view?usp=sharing)&nbsp;
-![profile views](https://komarev.com/ghpvc/?username=SourasishBasu&color=red)&nbsp;
+# <img alt="" align="left" src="https://badges.pufler.dev/visits/SourasishBasu/SourasishBasu?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/> <img alt="" align="right" src="https://img.shields.io/badge/Resume-000000?style=flat&link=https://drive.google.com/file/d/1_JXRSvPhLSlWWVzGEObfLoxV7aveeVSW/view?usp=sharing"/>
+<br>
+<pre>
+███████╗ █████╗ ███████╗ ██████╗ ██╗   ██╗ █████╗ ████████╗ ██████╗██╗  ██╗
+██╔════╝██╔══██╗██╔════╝██╔═══██╗██║   ██║██╔══██╗╚══██╔══╝██╔════╝██║  ██║
+███████╗███████║███████╗██║   ██║██║   ██║███████║   ██║   ██║     ███████║
+╚════██║██╔══██║╚════██║██║▄▄ ██║██║   ██║██╔══██║   ██║   ██║     ██╔══██║
+███████║██║  ██║███████║╚██████╔╝╚██████╔╝██║  ██║   ██║   ╚██████╗██║  ██║
+╚══════╝╚═╝  ╚═╝╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝
+</pre>
 
-<img alt="ReadMe" src="profile.png" />
+<pre>
+ ~> <strong>cat AboutMe.txt</strong>
+1. CSE Undergraduate
+2. Interested in FOSS, DevOps, Cloud Computing, RL/DL, CyberSec 
 
-------
-#### Languages & Technologies
-<img align="left" alt="Python" width="26px" src="./assets/python.svg" />
-<img align="left" alt="MySQL" width="35px" src="./assets/mysql.svg" />
-<img align="left" alt="AWS" width="35px" src="./assets/aws.svg" />
-<img align="left" alt="Docker" width="35px" src="./assets/docker.svg" />
-<img align="left" alt="C" width="26px" src="./assets/c.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="./assets/csharp.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML" width="26px" src="./assets/html.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS" width="26px" src="./assets/css.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="./assets/git.svg" style="padding-right:10px;" />
-</br>
+ ~> <strong>pinky -l sasquatch</strong>
+Login: sasquatch                        Name: SBasu
+Directory: /home/sasquatch              Shell: /usr/bin/bash
+Skills:
+  Python, C, HTML/CSS, Docker, AWS
+Projects:
+  - <a href="https://github.com/SourasishBasu/Registration-Validator-SMS-AWS">Nextform</a>: Serverless App w/ automatic SMS registration confirmation using AWS + NextJS
+  - <a href="https://github.com/SourasishBasu/Digit-Classifier">Digit Classifier</a> based on MNIST dataset and ML
+  - RaspPi 0 W implementation of <a href="https://github.com/SourasishBasu/Pwnagotchi-raspberry-pi0">Pwnagotchi</a> and <a href="https://github.com/SourasishBasu/PicoW-Ducky">USB Rubber Ducky</a> using Pico W.
+  - Check out other <a href="https://github.com/SourasishBasu?tab=repositories">projects</a>
 
-#### Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="./assets/vscode.svg" style="padding-right:10px;" />
-<img align="left" alt="PyCharm" width="26px" src="./assets/pycharm.png" style="padding-right:10px;" />
-<img align="left" alt="Github" width="26px" src="./assets/github.svg" style="padding-right:10px;" />
-<img align="left" alt="Ubuntu WSL" width="26px" src="./assets/ubuntu.svg" style="padding-right:10px;" />
-<img align="left" alt="Powershell" width="26px" src="./assets/shell.svg" style="padding-right:10px;" />
-<img align="left" alt="Unity 3D" width="26px" src="./assets/unity.svg" style="padding-right:10px;" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="./assets/psd.png" style="padding-right:10px;" />
-<img align="left" alt="Notion" width="26px" src="./assets/notion.svg" style="padding-right:10px;" />
-</br>
+ ~> <strong>ls Contacts</strong>
+ <a href="mailto:sourasishbasu06@gmail.com">Gmail</a> | <a href="linkedin.com/sourasishbasu">LinkedIn</a> | <a href="discordapp.com/users/524877465496190976">Discord</a>
+</pre>
 
-### Connect with me
-[<img align="left" alt="Gmail" width="26px" src="./assets/gmail.svg" style="padding-right:10px;"/>](mailto:sourasishbasu06@gmail.com)
-[<img align="left" alt="LinkedIn" width="26px" src="./assets/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/sourasishbasu)
-[<img align="left" alt="Discord" width="26px" src="./assets/discord.svg" style="padding-right:10px;" />](https://discord.com/users/524877465496190976/)
-</br>
-------
-![user stats](https://github-readme-stats.vercel.app/api?username=sourasishbasu&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
