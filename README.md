@@ -26,6 +26,6 @@ Projects:
   - Check out other <a href="https://github.com/SourasishBasu?tab=repositories">projects</a>
 
  ~> <strong>ls Contacts</strong>
- <a href="mailto:sourasishbasu06@gmail.com">Gmail</a> | <a href="linkedin.com/sourasishbasu">LinkedIn</a> | <a href="discordapp.com/users/524877465496190976">Discord</a>
+ <a href="mailto:sourasishbasu06@gmail.com">Gmail</a> | <a href="https://linkedin.com/in/sourasishbasu">LinkedIn</a> | <a href="https://discordapp.com/users/524877465496190976">Discord</a>
 </pre>
 
