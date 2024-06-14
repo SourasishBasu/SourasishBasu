@@ -18,7 +18,7 @@
 Login: sasquatch                        Name: SBasu
 Directory: /home/sasquatch              Shell: /usr/bin/bash
 Skills:
-  Python, C, HTML/CSS, Docker, AWS
+  Python, C, Docker, AWS, NextJS, TailwindCSS
 Projects:
   - <a href="https://github.com/SourasishBasu/Registration-Validator-SMS-AWS">Nextform</a>: Serverless App w/ automatic SMS registration confirmation using AWS + NextJS
   - <a href="https://github.com/SourasishBasu/Digit-Classifier">Digit Classifier</a> based on MNIST dataset and ML
@@ -26,6 +26,6 @@ Projects:
   - Check out other <a href="https://github.com/SourasishBasu?tab=repositories">projects</a>
 
  ~> <strong>ls Contacts</strong>
- <a href="mailto:sourasishbasu06@gmail.com">Gmail</a> | <a href="https://linkedin.com/in/sourasishbasu">LinkedIn</a> | <a href="https://discordapp.com/users/524877465496190976">Discord</a>
+ <a href="mailto:sourasishbasu06@gmail.com">Gmail</a> | <a href="https://discordapp.com/users/524877465496190976">Discord</a>
 </pre>
 
