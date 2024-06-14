@@ -12,13 +12,13 @@
 <pre>
  ~> <strong>cat AboutMe.txt</strong>
 1. CSE Undergraduate
-2. Interested in FOSS, DevOps, Cloud Computing, RL/DL, CyberSec 
+2. Interested in FOSS, DevOps, Cloud, RL/DL, LLMs 
 
  ~> <strong>pinky -l sasquatch</strong>
 Login: sasquatch                        Name: SBasu
 Directory: /home/sasquatch              Shell: /usr/bin/bash
 Skills:
-  Python, C, Docker, AWS, NextJS, TailwindCSS
+  Python, C, Docker, AWS, NextJS, TailwindCSS, SQL
 Projects:
   - <a href="https://github.com/SourasishBasu/Registration-Validator-SMS-AWS">Nextform</a>: Serverless App w/ automatic SMS registration confirmation using AWS + NextJS
   - <a href="https://github.com/SourasishBasu/Digit-Classifier">Digit Classifier</a> based on MNIST dataset and ML
