@@ -1,4 +1,4 @@
-# <img alt="" align="left" src="https://badges.pufler.dev/visits/SourasishBasu/SourasishBasu?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/> <a href="https://drive.google.com/file/d/1MjfRNqZZC0wZpOTCUCzSpph0Bmlgexmg/view?usp=sharing"><img alt="" align="right" src="https://img.shields.io/badge/Resume-000000?style=flat&link=https://drive.google.com/file/d/1MjfRNqZZC0wZpOTCUCzSpph0Bmlgexmg/view?usp=sharing"/></a>
+# 
 <br>
 <pre>
 ███████╗ █████╗ ███████╗ ██████╗ ██╗   ██╗ █████╗ ████████╗ ██████╗██╗  ██╗
@@ -12,14 +12,15 @@
 <pre>
  ~> <strong>cat AboutMe.txt</strong>
   > CSE Undergraduate
-  > Interested in DevOps, Cloud, LLMs, & FOSS
+  > Interested in DevOps, Cloud, LLMs
   
   Skills:
     Python, Golang, Docker, Ansible, K8s, AWS, DigitalOcean, Azure
   Projects:
-    - <a href="https://github.com/SourasishBasu/ledgerly">Ledgerly</a>: Self hostable Expense Tracking platform built on FastAPI + Postgres + Docker
-    - RAG based research documentation assistant <a href="https://github.com/SourasishBasu/RAGnarok/tree/main">RAGnarok</a> targeted towards professionals
-    - RaspPi 0 W implementation of <a href="https://github.com/SourasishBasu/Pwnagotchi-raspberry-pi0">Pwnagotchi</a> and <a href="https://github.com/SourasishBasu/PicoW-Ducky">USB Rubber Ducky</a> using Pico W.
+    - RAG based research documentation assistant <a href="https://github.com/SourasishBasu/RAGnarok/tree/main">RAGnarok</a> targeted towards professionals.
+    - TUI based <a href="https://github.com/SourasishBasu/ssh-leaderboard">Leaderboard</a> served over SSH built using Charm.sh and Go.
+    - BitTorrent Peer Protocol <a href="https://github.com/SourasishBasu/bittorrent-python">implementation</a>
+    - <a href="https://github.com/SourasishBasu/PicoW-Ducky">USB Rubber Ducky</a> using Pico W and RaspPi Zero W implementation of <a href="https://github.com/SourasishBasu/Pwnagotchi-raspberry-pi0">Pwnagotchi</a>.
     - Check out other <a href="https://github.com/SourasishBasu?tab=repositories">projects</a>
 
  ~> <strong>ls Contacts</strong>
