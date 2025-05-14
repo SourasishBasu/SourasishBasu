@@ -18,7 +18,7 @@
     Python, Golang, Docker, Ansible, K8s, AWS, DigitalOcean, Azure
   Projects:
     - <a href="https://github.com/SourasishBasu/ledgerly">Ledgerly</a>: Self hostable Expense Tracking platform built on FastAPI + Postgres + Docker
-    - <a href="https://github.com/SourasishBasu/RAGnarok/tree/main">RAGnarok</a>: RAG research documentation assistant targeted towards professionals
+    - RAG based research documentation assistant <a href="https://github.com/SourasishBasu/RAGnarok/tree/main">RAGnarok</a> targeted towards professionals
     - RaspPi 0 W implementation of <a href="https://github.com/SourasishBasu/Pwnagotchi-raspberry-pi0">Pwnagotchi</a> and <a href="https://github.com/SourasishBasu/PicoW-Ducky">USB Rubber Ducky</a> using Pico W.
     - Check out other <a href="https://github.com/SourasishBasu?tab=repositories">projects</a>
 
